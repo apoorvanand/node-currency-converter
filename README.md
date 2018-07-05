@@ -1,4 +1,5 @@
 # Currency Converter
+## Deployed on Openshift origin
 Simple Node.js currency converter. Makes use of Redis for caching.
 
 ## To run locally:
